@@ -49,7 +49,7 @@ def run_catscript(file_path):
             print("\n[Cat Status]: The cat bit your finger! Program gracefully stopped.")
             sys.exit(0)
         elif line == "Purr":
-            print(chr(belly), end="")
+            print(chr(belly), end="", flush=True)
         elif line == "Scream":
             print(f"\n[Belly Value]: {belly}")
         elif line == "Stare":
