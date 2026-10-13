@@ -1,4 +1,4 @@
-; --- Print 'H' ---
+; --- Print 'H' (72) ---
 MeowMeowMeow
 Churu
 MeowMeowMeow
@@ -7,28 +7,28 @@ Meow
 Meow
 Purr
 
-; --- Print 'e' ---
+; --- Print 'e' (101) ---
 Drop
 MeowMeowMeow
 Churu
-Churu
+Tygydyk
 Meow
 Purr
 
-; --- Print 'l' ---
-Drop
-MeowMeowMeow
-Churu
-Churu
-MeowMeowMeow
-Hiss
-Hiss
+; --- Print 'l' (108) ---
+Meow
+Meow
+Meow
+Meow
+Meow
+Meow
+Meow
 Purr
 
-; --- Print 'l' ---
+; --- Print 'l' (108) ---
 Purr
 
-; --- Print 'o' ---
+; --- Print 'o' (111) ---
 Meow
 Meow
 Meow
